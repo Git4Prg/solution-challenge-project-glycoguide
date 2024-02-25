@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935482790932",
+    "project_id": "glycoguide-c5806",
+    "storage_bucket": "glycoguide-c5806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935482790932:android:317911de425ff428a60301",
+        "android_client_info": {
+          "package_name": "com.example.glycoguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQ0AZ5DulqwRJfqQrh1eRIrrx1tp1XXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
