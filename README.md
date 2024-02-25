@@ -30,6 +30,10 @@ HOW TO USE THE GLYCOGUIDE WEB APP:
 
 
 
+
+
+
+
   ## Installation of the mobile-app
 
   # Flutter Project
@@ -60,8 +64,9 @@ Get Dependencies
 Run the following command to get the dependencies required for the project: flutter pub get
 
 Run the Project
-Connect your device or emulator and run the project using the following command:flutter run
+Connect your device or emulator and run the project using the following command: flutter run
 
 This command will build and run the Flutter application on your connected device or emulator.
 
-    
+# NOTE 
+The Flutter App was tested on Pixel_3a_API_34_extension_level_7_x86_x64
