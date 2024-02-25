@@ -8,7 +8,7 @@ HOW TO USE THE GLYCOGUIDE WEB APP:
   To get started with GlycoGuide, follow these steps:
 
   1. Clone the repository:
-   git clone https://github.com/yourusername/glycoguide.git
+   git clone https://github.com/Git4Prg/solution-challenge-project-glycoguide.git
 
   2. Navigate to the project directory:  cd glycoguide
   3. Install dependencies using npm: npm install
@@ -16,6 +16,7 @@ HOW TO USE THE GLYCOGUIDE WEB APP:
         JWT_SECRET=your_jwt_secret
         MONGODB_URI=your_mongodb_uri
         API_KEY=your_api_key
+     
   Replace your_jwt_secret with a random string for JWT token generation, your_mongodb_uri with your MongoDB connection URI, and your_api_key with the API key required for your project.
 
   # Usage
@@ -50,7 +51,7 @@ HOW TO USE THE GLYCOGUIDE WEB APP:
 
   Clone this repository to your local machine using Git:
 
-  git clone https://github.com/your-username/flutter-project.git
+  git clone https://github.com/Git4Prg/solution-challenge-project-glycoguide.git
 
   Navigate to the Project Directory
 Navigate to the cloned repository's directory: cd flutter-project
