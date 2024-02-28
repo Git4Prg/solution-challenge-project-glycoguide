@@ -70,3 +70,4 @@ This command will build and run the Flutter application on your connected device
 
 # NOTE 
 The Flutter App was tested on Pixel_3a_API_34_extension_level_7_x86_x64
+DON'T FORGET TO GET YOUR API KEY FROM https://aistudio.google.com/app/apikey and store it inside an environment variable in .env file named "APIKEY" created in the root directory of project.  
